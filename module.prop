@@ -1,7 +1,6 @@
-id=template
-name=Template Module
+id=disable_logd
+name=Disable logd
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
-template=3
+author=MasterPhi
+description=Disable logd
